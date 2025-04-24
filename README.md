@@ -12,3 +12,5 @@ Endless-Runner-Game
 ├── character.glb (3D character model)  
 ├── ground.jpg   (Ground texture)  
 ```
+
+https://chatgpt.com/share/6808fe66-d27c-8009-96b8-15aba4fc95c9
